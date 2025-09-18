@@ -30,7 +30,7 @@ Role	Capabilities
 
 
 
-(Here's a demo flow on how the app works)
+(Here's a demo flow on how this platform works)
 Welcome to BloodLoop! 🩸
 Choose your role: donor / patient / doctor
 
